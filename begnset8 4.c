@@ -3,9 +3,10 @@
 void main()
 {
 float a;
-int r;
+int n;
 clrscr();
 scanf("%f",&a);
-printf("%.0f",a);
+n=a+1;
+printf("%d",n);
 getch();
 }
