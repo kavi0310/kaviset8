@@ -26,5 +26,7 @@ break;
 }}
 if(l==c)
 printf("yes");
+  else
+    printf("no");
 getch();
 }
